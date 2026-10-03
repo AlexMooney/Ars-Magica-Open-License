@@ -1854,6 +1854,8 @@ Each folk witch power grants her a Magic Defense against effects cast on her. Ma
 
 **Power: Animal Ken**<br>
 Defense: Magical Fortitude. Defense against effects cast by casters in an Animal form (includes shapeshifted magi, magical animals, faerie animals, etc.).<br>
+
+**Power: Cursing**<br>
 Defense: Accelerated Expiry. Defense against effects that target her with an Arcane Connection.
 
 **Power: Dowsing**<br>
