@@ -1,10 +1,12 @@
 # Ars Magica Definitive Edition
-
 The extensively revised and expanded deluxe version of Ars Magica 5th Edition.
 
 ## Markdown Version Specifics
 
-Open License Markdown version by OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License
+Open License Markdown version by OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License 
+Visit the github for the latest revision of this document and the complete texts of all official Ars Magica Open License books. 
+
+While this extracted text is complete and provided completely free under the Open License, and endorsed by Atlas Games, we highly recommend to buy the gorgeous 580-page illustrated hardcover physical book and/or the digital PDF version of it directly from Atlas Games: https://atlas-games.com/product_tables/AG0215
 
 *[Completion state: Done. All text and formatting manually fixed and reviewed at length. Definitive Edition is now in excellent readable format including complete TOC/Virtues list/Flaws list/Ability list/Spells Index/Bestiary Index/Traditional Index links. It should be content complete with several fixes (see below). Remaining: Full pass review by others; Minor details such as Stat Blocks and Bestiary and a few more sections have fully corrected text/headings/tables but retains simple formatting that could be improved with br's, italic, bold etc; Character Sheet will likely not be done in markdown (lol)]*
 
